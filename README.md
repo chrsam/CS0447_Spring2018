@@ -1,2 +1,2 @@
 # CS0447_Spring2018
-labs and projects from my "Computer Organization and Assembly Language" class
+Labs and projects from my CS0447 (Computer Organization and Assembly Language) class
